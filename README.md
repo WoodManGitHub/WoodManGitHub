@@ -1,5 +1,22 @@
 <h1 align="center">Hi 👋, I'm WoodMan</h1>
 <h3 align="center">Software engineer from Taiwan</h3>
+
+```js
+const whoami = {
+    code: ['JavaScript', 'Node.js', 'Ruby', 'Python', 'Kotlin'],
+    technologies: {
+        fortEnd : ['JavaScript', 'Vue.js', 'HTML', 'CSS'],
+        backEnd: {
+            nodejs: 'express'
+        },
+        DL: ['TensorFlow', 'Keras'],
+        databases: ['MongoDB', 'MySQL', 'Redis'],
+        other: ['Linux', 'CI/CD', 'Git', 'Docker']
+    },
+    cyberSecurity: 'Currently learning, participating in CTF everywhere.'
+}
+```
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=woodmangithub" alt="woodmangithub" /> </p>
 
 [![GitHub WoodManGitHub](https://img.shields.io/github/followers/WoodManGitHub?label=follow&style=social)](https://github.com/WoodManGitHub)
