@@ -9,7 +9,7 @@ const whoami = {
         backEnd: {
             nodejs: 'express'
         },
-        DeepLearning: ['TensorFlow', 'Keras'],
+        deepLearning: ['TensorFlow', 'Keras'],
         databases: ['MongoDB', 'MySQL', 'Redis'],
         other: ['Linux', 'CI/CD', 'Git', 'Docker']
     },
