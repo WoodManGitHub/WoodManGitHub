@@ -5,7 +5,7 @@
 const whoami = {
     code: ['JavaScript', 'Node.js', 'Ruby', 'Python', 'Kotlin'],
     technologies: {
-        frontEnd : ['JavaScript', 'Vue.js', 'HTML', 'CSS'],
+        frontEnd: ['JavaScript', 'Vue.js', 'HTML', 'CSS'],
         backEnd: {
             nodejs: 'express'
         },
