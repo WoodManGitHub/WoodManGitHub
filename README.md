@@ -1,15 +1,18 @@
-<h1 align="center">Hi 👋, I'm WoodMan</h1>
+<h1 align="center">Hi 👋, I'm WoodMan </h1> 
 <h3 align="center">Software engineer from Taiwan</h3>
 
+[![Personal Web](https://img.shields.io/badge/Personal%20Web-%F0%9F%8C%90-blue?style=flat-square)](https://woodman.tw) ![View Count](https://komarev.com/ghpvc/?username=woodmangithub&label=Profile%20views&color=red&style=flat-square)
+
+## Skills
 ```js
 const whoami = {
     code: ['JavaScript', 'Node.js', 'Ruby', 'Python', 'Kotlin'],
     technologies: {
         frontEnd: ['JavaScript', 'Vue.js', 'HTML', 'CSS'],
         backEnd: {
-            nodejs: 'express'
+            nodejs: 'express',
+            ruby: 'sinatra'
         },
-        deepLearning: ['TensorFlow', 'Keras'],
         databases: ['MongoDB', 'MySQL', 'Redis'],
         other: ['Linux', 'CI/CD', 'Git', 'Docker']
     },
@@ -17,11 +20,7 @@ const whoami = {
 }
 ```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=woodmangithub" alt="woodmangithub" /> </p>
-
-[![GitHub WoodManGitHub](https://img.shields.io/github/followers/WoodManGitHub?label=follow&style=social)](https://github.com/WoodManGitHub)
-
-- 📑 [About](https://woodman.tw/)
-
-</p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=woodmangithub&theme=nord&show_icons=true" alt="woodmangithub" /> </p>
-</p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woodmangithub&layout=compact" alt="woodmangithub" /> </p>
+## Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=woodmangithub&theme=github_dark&show_icons=true" alt="woodmangithub" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=woodmangithub&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" alt="woodmangithub" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woodmangithub&theme=github_dark&layout=compact" alt="woodmangithub" /> </p>
