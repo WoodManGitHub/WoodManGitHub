@@ -5,7 +5,7 @@ Co-worker in [@LCE-Lab](https://github.com/LCE-Lab)
 ## Skills
 ```js
 const whoami = {
-    programming: ['JavaScript', 'Node.js', 'Ruby', 'Python', 'Kotlin'],
+    programming: ['JavaScript', 'Node.js', 'Ruby', 'Python', 'Kotlin', 'C', 'C++'],
     cyberSecurity: ['Penetration Testing', 'RedTeam', 'Research', 'Exploitation'],
     technologies: {
         frontEnd: ['JavaScript', 'Vue.js', 'HTML', 'CSS'],
@@ -14,7 +14,7 @@ const whoami = {
             ruby: 'sinatra'
         },
         databases: ['MongoDB', 'MySQL', 'Redis'],
-        other: ['Linux', 'CI/CD', 'Git', 'Docker']
+        other: ['Linux', 'CI/CD', 'Git', 'Docker', 'CodeQL', 'Language Model']
     }
 }
 ```
